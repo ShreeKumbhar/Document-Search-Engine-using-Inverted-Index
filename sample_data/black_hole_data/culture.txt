@@ -1,0 +1,94 @@
+Black holes in movies and books. They are scary. They are useful.
+"Interstellar". A great movie. They had a physicist consultant using real equations. Kip Thorne. He won a Nobel prize later.
+The black hole "Gargantua". It looked amazing. They simulated the lensing. The disk goes over the top and bottom.
+Time dilation was a plot point. 1 hour = 7 years. Miller's planet.
+This was accurate. You need to be very close to the horizon. And the black hole must spin fast.
+To survive the tidal forces, it must be supermassive. Gargantua was 100 million suns.
+If it was a small black hole, they would die instantly. Spaghettification.
+
+"Star Trek". They use black holes for gravity assists. Or time travel. Red matter creates black holes.
+"Doctor Who". The Eye of Harmony. A black hole powering a time machine. The TARDIS.
+"Event Horizon". A horror movie. Black hole as a gate to hell. Not scientifically accurate. But scary.
+"The Black Hole" (Disney). Old movie. The robot Maximilian. Into the singularity. Weird ending.
+
+Myths about black holes.
+Myth 1: They suck everything in.
+False. They are not vacuum cleaners. They just have gravity.
+If you replace the Sun with a black hole of the same mass, Earth would be fine. We would orbit happily. We would freeze (no light), but we wouldn't get sucked in. You have to aim for it to fall in.
+
+Myth 2: They are portals.
+Maybe. But you probably die first. The singularity blocks the way.
+Rotating black holes might have a ring singularity. You could pass through the middle.
+To where? Another universe? White hole?
+A white hole is the opposite. Nothing gets in. Everything comes out.
+We have never seen one. It violates the second law of thermodynamics (maybe).
+
+Myth 3: Black holes are black.
+True, the hole is black. But the stuff around it is bright. The disk. The jet.
+They are the brightest things in the universe. Quasars.
+
+Myth 4: We will get eaten by one.
+Unlikely. Space is big. Black holes are small targets. The nearest one is 1500 light years away.
+Gaia BH1. It is far. It is not moving towards us.
+Andromeda galaxy is coming though. In 4 billion years. It has a black hole. We have one.
+They will merge eventually. But Earth will be gone by then (Sun will expand).
+
+Myth 5: LHC will make a black hole and destroy Earth.
+Micro black holes. Large Hadron Collider.
+Some theories (Large Extra Dimensions) say gravity gets strong at small scales.
+We could pop out tiny black holes.
+People panicked. "Doomsday machine".
+But:
+1. They would evaporate instantly. Hawking radiation.
+2. Cosmic rays hit Earth with more energy than LHC everyday. If they made black holes, we would be dead already.
+We are still here. So safe.
+
+Let's verify indexing.
+Keywords: "movie", "myth", "earth", "sun", "energy", "gravity".
+This file adds a lighter tone but still valid keywords.
+Useful for testing "suck", "portal", "time".
+
+Educational value.
+Teaching people about black holes is fun. Everyone loves them.
+They are the monsters of the dark.
+But they obey laws.
+Law of conservation.
+Law of angular momentum.
+They are clean objects. Pure geometry.
+
+Let's add some repeated random phrases for frequency testing.
+Black hole black hole black hole.
+Event horizon event horizon.
+Space time space time.
+Gravity gravity gravity.
+Light light light.
+
+Comparison with other objects.
+Neutron stars.
+Almost a black hole. But surface exists.
+Hard surface. If you hit it, smash.
+Black hole, no surface. You fall through.
+Neutron stars have magnetic fields. Magnetars.
+Black holes have accretion disks with magnetic fields.
+Neutron stars can become black holes if they eat too much.
+Or if they merge.
+Kilonova. Gold is made there.
+So, black holes are the endpoints. The graveyard of stars.
+Or the recycle bin.
+Or the battery.
+
+This dataset should be sufficient. 5 files. ~500-800 words each (estimated).
+Total vocabulary will be decent.
+Total index size will be larger.
+Search engine response time should still be instantaneous (O(1) map lookup).
+Initialization time might take a few extra milliseconds.
+
+Final check of words.
+Interstellar, Disney, Gargantua, Thorne, Hawking, Einstein.
+The index should handle proper nouns (converted to lowercase).
+Numbers (1, 2, 3) should be handled or stripped depending on tokenizer.
+Our tokenizer keeps numbers if they are part of words or just alphanumeric.
+"1916" -> "1916".
+"BH1" -> "bh1".
+
+End of file 5.

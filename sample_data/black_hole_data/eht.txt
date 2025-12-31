@@ -1,0 +1,55 @@
+The Event Horizon Telescope (EHT) is a project to create a large telescope array consisting of a global network of radio telescopes. The EHT project combines data from several very-long-baseline interferometry (VLBI) stations around Earth with angular resolution sufficient to observe objects the size of a supermassive black hole's event horizon. The project's observational targets include the two black holes with the largest apparent angular size: Messier 87 (M87*) and Sagittarius A* (Sgr A*).
+
+The idea is to use the Earth as one big telescope. The bigger the telescope, the better the resolution. We can't build a dish the size of Earth. But we can combine signals from dishes all over Earth. This is VLBI. We need atomic clocks. Precise timing. We record the radio waves. Then we ship the hard drives to a central computer. The correlator. It combines the data. It corrects for the Earth's rotation. The atmosphere.
+
+The target: M87*. It is 55 million light years away. It is huge. 6.5 billion solar masses. But it is far. It looks tiny in the sky. Like an orange on the moon. We need micro-arcsecond resolution. The EHT has it.
+
+The image. April 2019. We saw it. A ring of fire. The shadow in the middle. The shadow is the event horizon. Technically, the shadow of the photon capture orbit. Light that got too close and fell in. The bright ring is the hot gas. Relativistic beaming makes one side brighter. The gas is moving at us. Doppler boost.
+
+This was a triumph. Years of work. Technical challenges. Weather. All telescopes must see the target at the same time. Good weather in Hawaii, Chile, Spain, Arizona, Antarctica. Hard to coordinate.
+
+The data volume was massive. Petabytes. Too big for internet. We shipped hard drives. Specifically, helium-filled hard drives. They work at high altitude.
+
+Imaging algorithms. Sparse modeling. CLEAN algorithm. Maximum entropy. We don't have data for every point. We have gaps. We have to reconstruction the image. We used independent teams. To avoid bias. Team 1, Team 2, Team 3, Team 4. They all got the same image. The ring. Robust result.
+
+Next target: Sgr A*. Our own black hole. It is closer. 26,000 light years. But it is small. 4 million solar masses. It changes fast. M87 is big and slow. Sgr A* varies in minutes. It is blurred by interstellar scattering. Harder to image. But they did it. 2022. The second image. Looks similar. A donut. Consistent with General Relativity.
+
+Future of EHT. Adding more telescopes. Space telescopes. Better resolution. Movies. We want to see the gas moving. We want to see the jet launch.
+
+The polarization data. Magnetic fields. The lines in the image are twisted. This maps the magnetic field. The field is strong. It pushes back on the gas. It launches the jet. B-fields are crucial for accretion. MRI instability. Magnetorotational instability. That makes the gas fall in.
+
+This project proves global collaboration works. Hundreds of scientists. Many countries. One goal. To see the unseeable.
+
+Let's list the telescopes:
+- ALMA (Chile)
+- APEX (Chile)
+- IRAM 30m (Spain)
+- JCMT (Hawaii)
+- LMT (Mexico)
+- SMA (Hawaii)
+- SMT (Arizona)
+- SPT (South Pole)
+
+Every site is important. The baselines. The distance between them matters. Long baselines give detail. ALMA is the anchor. It is very sensitive. It helps calibrate the others.
+
+Testing keywords: "telescope", "radio", "image", "shadow", "resolution", "data", "algorithm".
+The search engine should index "data" many times. "Telescope" is repeated. "Black hole" occurs frequently.
+
+Let's discuss the physics verified. General Relativity passed another test. The size of the shadow matches Einstein's prediction. The shape matches. No deviations found. No scalar fields. No modifications yet.
+
+What if the black hole was different? A boson star? A wormhole? A gravastar? The image constrains these. It looks like a Kerr black hole. The standard model of black holes stands strong.
+
+But questions remain. The jet. We see the jet in other wavelengths. But not connected to the ring yet in the EHT image. We need more dynamic range.
+
+The accretion flow. MAD vs SANE. Magnetically Arrested Disk. Standard And Normal Evolution. The polarization favors MAD. Strong magnetic fields halting the flow. Chaotic inflow.
+
+The EHT is expanding. Next Generation EHT. ngEHT. More dishes. Higher frequencies. 345 GHz. Better distinctness.
+
+Comparing M87* and Sgr A*. M87* is a beast. Jet machine. AGN. Sgr A* is quiet. Starving. LLAGN. Low Luminosity AGN. But they look the same. Scalability of gravity. Physics works over orders of magnitude.
+
+Computing power. The correlation takes months. Specialized hardware. FPGAs. GPUs. The software pipeline is complex. Calibration. Fringe fitting. Amplitude and phase. Closure phases. These are the observables.
+
+The public reaction. "Powehi". The Hawaiian name for M87*. "Embellished dark source of unending creation". A beautiful name. Front page news. Iconic image. Science communication success.
+
+So, this text files adds technical details about observation. Keywords: interference, baseline, frequency, gigahertz, petabyte, correlation.
+File 3 complete.
