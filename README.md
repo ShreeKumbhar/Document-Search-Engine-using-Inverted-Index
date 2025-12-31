@@ -1,4 +1,4 @@
-# Mini Google - File-Based Search Engine
+# Mini Google - Document Search Engine using Inverted Index
 
 A high-performance, console-based search engine implemented in pure Java (JDK 17). This project mimics the core indexing logic of major search engines (like Google) using an **Inverted Index** data structure to provide O(1) average time complexity for keyword lookups.
 
@@ -78,7 +78,7 @@ java -cp out com.minigoogle.Main
    Mini Google - File Based Search Engine
 =========================================
 
-Enter directory path to index: /Users/sakshi/project/sample_data/black_hole_data
+Enter directory path to index: /Users/user_name/project/sample_data/black_hole_data
 
 [INFO] Starting Indexing Process...
 [INFO] Indexing Complete. Indexed 5 files in 20 ms.
